@@ -1,2 +1,2 @@
 # Kicks
-Kicks Website FrontEnd
+Shoes Website FrontEnd
